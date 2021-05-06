@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SYN09_CourseWork</string>
+    <string name="Тема">Электрические батарейки и аккумуляторы</string>
+    <string name="Автор">Суслова Екатерина, ВТиП-302</string>
+    <string name="Кнопка">ПЕРЕЙТИ К БД</string>
+    <string name="Поиск">Введите название или ёмкость</string>
+    <string name="Загрузка_данных">Загрузка данных…</string>
+    <string name="Выход">Выход</string>
+    <string name="Написать_предложение_автору">Написать предложение автору</string>
+    <string name="myemail">yekaterina.n.suslova@gmail.com</string>
+    <string name="Добавьте_еще_аккумулятор">Добавьте еще аккумулятор</string>
+    <string name="Предлагаю_такой_аккумулятор">Предлагаю такой аккумулятор в вашу программу:</string>
+    <string name="Посылка_письма">Посылка письма…</string>
+    <string name="Нет_установленного_почтового_клиента">Нет установленного почтового клиента, увы (</string>
+    <string name="Большой_шрифт">Большой шрифт</string>
+</resources>
